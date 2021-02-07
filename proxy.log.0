@@ -1,0 +1,401 @@
+14:52:17 [INFO] Using standard Java JCE cipher.
+14:52:17 [INFO] Using standard Java compressor.
+14:52:17 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+14:52:17 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:52:17 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:52:17 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:52:17 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:52:17 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:52:17 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:52:17 [INFO] Attempting to update plugin from null to ModuleVersion(build=1545, git=3d701fb)
+14:52:17 [INFO] Attempting to Jenkins download module cmd_alert v1545
+14:52:18 [INFO] Download complete
+14:52:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1545, git=3d701fb)
+14:52:18 [INFO] Attempting to Jenkins download module cmd_find v1545
+14:52:18 [INFO] Download complete
+14:52:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1545, git=3d701fb)
+14:52:18 [INFO] Attempting to Jenkins download module cmd_list v1545
+14:52:18 [INFO] Download complete
+14:52:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1545, git=3d701fb)
+14:52:18 [INFO] Attempting to Jenkins download module cmd_send v1545
+14:52:18 [INFO] Download complete
+14:52:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1545, git=3d701fb)
+14:52:18 [INFO] Attempting to Jenkins download module cmd_server v1545
+14:52:18 [INFO] Download complete
+14:52:18 [INFO] Attempting to update plugin from null to ModuleVersion(build=1545, git=3d701fb)
+14:52:18 [INFO] Attempting to Jenkins download module reconnect_yaml v1545
+14:52:18 [INFO] Download complete
+14:52:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [WARNING] Forced host server pvp is not defined
+14:52:18 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:18 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:52:19 [INFO] Listening on /0.0.0.0:25577
+14:54:45 [INFO] §cCommand not found
+14:54:49 [INFO] §cCommand not found
+14:54:52 [INFO] §cCommand not found
+14:54:54 [INFO] §cCommand not found
+14:54:58 [INFO] §cCommand not found
+14:55:17 [INFO] §cCommand not found
+14:55:17 [INFO] Closing listener [id: 0x75ed32cc, L:/0:0:0:0:0:0:0:0:25577]
+14:55:17 [INFO] Closing pending connections
+14:55:17 [INFO] Disconnecting 0 connections
+14:55:18 [INFO] Saving reconnect locations
+14:55:18 [INFO] Disabling plugins
+14:55:18 [INFO] Closing IO threads
+14:55:20 [INFO] Thank you and goodbye
+14:57:46 [INFO] Using standard Java JCE cipher.
+14:57:46 [INFO] Using standard Java compressor.
+14:57:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+14:57:47 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:57:47 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:57:47 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:57:47 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:57:47 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:57:47 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:57:47 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [WARNING] Forced host server pvp is not defined
+14:57:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:57:47 [INFO] Listening on /0.0.0.0:25577
+14:57:52 [INFO] Closing listener [id: 0x79b96908, L:/0:0:0:0:0:0:0:0:25577]
+14:57:52 [INFO] Closing pending connections
+14:57:52 [INFO] Disconnecting 0 connections
+14:57:52 [INFO] Saving reconnect locations
+14:57:52 [INFO] Disabling plugins
+14:57:52 [INFO] Closing IO threads
+14:59:25 [INFO] Using standard Java JCE cipher.
+14:59:25 [INFO] Using standard Java compressor.
+14:59:25 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+14:59:25 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:59:25 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:59:25 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:59:25 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:59:25 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:59:25 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:59:25 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [WARNING] Forced host server pvp is not defined
+14:59:25 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:25 [INFO] Listening on /0.0.0.0:25577
+14:59:28 [INFO] Closing listener [id: 0x6198f729, L:/0:0:0:0:0:0:0:0:25577]
+14:59:28 [INFO] Closing pending connections
+14:59:28 [INFO] Disconnecting 0 connections
+14:59:29 [INFO] Saving reconnect locations
+14:59:29 [INFO] Disabling plugins
+14:59:29 [INFO] Closing IO threads
+14:59:48 [INFO] Using standard Java JCE cipher.
+14:59:48 [INFO] Using standard Java compressor.
+14:59:48 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+14:59:48 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:59:48 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:59:48 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:59:48 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:59:48 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:59:48 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:59:48 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [WARNING] Forced host server pvp is not defined
+14:59:48 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:48 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+14:59:49 [INFO] Listening on /0.0.0.0:25577
+15:01:19 [INFO] Closing listener [id: 0xbb83e08e, L:/0:0:0:0:0:0:0:0:25577]
+15:01:19 [INFO] Closing pending connections
+15:01:19 [INFO] Disconnecting 0 connections
+15:01:19 [INFO] Saving reconnect locations
+15:01:19 [INFO] Disabling plugins
+15:01:19 [INFO] Closing IO threads
+15:01:41 [INFO] Using standard Java JCE cipher.
+15:01:41 [INFO] Using standard Java compressor.
+15:01:41 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:01:42 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:01:42 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:01:42 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:01:42 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:01:42 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:01:42 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:01:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [WARNING] Forced host server pvp is not defined
+15:01:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:01:42 [INFO] Listening on /0.0.0.0:25577
+15:02:41 [INFO] Closing listener [id: 0x336f5cce, L:/0:0:0:0:0:0:0:0:25577]
+15:02:41 [INFO] Closing pending connections
+15:02:41 [INFO] Disconnecting 0 connections
+15:02:42 [INFO] Saving reconnect locations
+15:02:42 [INFO] Disabling plugins
+15:02:42 [INFO] Closing IO threads
+15:02:46 [INFO] Using standard Java JCE cipher.
+15:02:46 [INFO] Using standard Java compressor.
+15:02:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:02:46 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:02:46 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:02:46 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:02:46 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:02:46 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:02:46 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:02:46 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [WARNING] Forced host server pvp is not defined
+15:02:46 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:02:46 [INFO] Listening on /0.0.0.0:25577
+15:03:46 [INFO] §cCommand not found
+15:03:49 [INFO] Closing listener [id: 0x0898b1f0, L:/0:0:0:0:0:0:0:0:25577]
+15:03:49 [INFO] Closing pending connections
+15:03:49 [INFO] Disconnecting 0 connections
+15:03:49 [INFO] Saving reconnect locations
+15:03:49 [INFO] Disabling plugins
+15:03:49 [INFO] Closing IO threads
+15:04:33 [INFO] Using standard Java JCE cipher.
+15:04:33 [INFO] Using standard Java compressor.
+15:04:33 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:04:33 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:04:33 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:04:33 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:04:33 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:04:33 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:04:33 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:04:33 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [WARNING] Forced host server pvp is not defined
+15:04:33 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:33 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:04:34 [INFO] Listening on /0.0.0.0:25577
+15:06:12 [INFO] Closing listener [id: 0x03993b8e, L:/0:0:0:0:0:0:0:0:25577]
+15:06:12 [INFO] Closing pending connections
+15:06:12 [INFO] Disconnecting 0 connections
+15:06:12 [INFO] Saving reconnect locations
+15:06:12 [INFO] Disabling plugins
+15:06:12 [INFO] Closing IO threads
+15:06:50 [INFO] Using standard Java JCE cipher.
+15:06:50 [INFO] Using standard Java compressor.
+15:06:50 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:06:50 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:06:50 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:06:50 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [WARNING] Forced host server pvp is not defined
+15:06:50 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:50 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:06:51 [INFO] Listening on /0.0.0.0:25577
+15:08:34 [INFO] [/127.0.0.1:61431] <-> InitialHandler has pinged
+15:08:36 [INFO] [/127.0.0.1:61221] <-> InitialHandler has connected
+15:08:38 [INFO] [Dankom] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:08:38 [INFO] [Dankom] -> UpstreamBridge has disconnected
+15:08:41 [INFO] [/127.0.0.1:61226] <-> InitialHandler has pinged
+15:08:45 [INFO] [/127.0.0.1:61238] <-> InitialHandler has pinged
+15:13:08 [INFO] [/127.0.0.1:57727] <-> InitialHandler has pinged
+15:13:08 [INFO] [/127.0.0.1:57732] <-> InitialHandler has pinged
+15:13:10 [INFO] [/127.0.0.1:57743] <-> InitialHandler has pinged
+15:13:18 [INFO] §cCommand not found
+15:13:22 [INFO] Closing listener [id: 0x353f373a, L:/0:0:0:0:0:0:0:0:25577]
+15:13:22 [INFO] Closing pending connections
+15:13:22 [INFO] Disconnecting 0 connections
+15:13:22 [INFO] Saving reconnect locations
+15:13:22 [INFO] Disabling plugins
+15:13:22 [INFO] Closing IO threads
+15:13:26 [INFO] Using standard Java JCE cipher.
+15:13:26 [INFO] Using standard Java compressor.
+15:13:26 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:13:26 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:13:26 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:13:26 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:13:26 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:13:26 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:13:26 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:13:26 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [WARNING] Forced host server pvp is not defined
+15:13:26 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:26 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:13:27 [INFO] Listening on /0.0.0.0:25577
+15:13:32 [INFO] [/127.0.0.1:57814] <-> InitialHandler has pinged
+15:13:33 [INFO] [/127.0.0.1:57826] <-> InitialHandler has connected
+15:13:33 [INFO] [/127.0.0.1:57828] <-> InitialHandler has pinged
+15:13:36 [INFO] [Dankom] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:13:36 [INFO] [Dankom] -> UpstreamBridge has disconnected
+15:13:38 [INFO] [/127.0.0.1:57831] <-> InitialHandler has pinged
+15:14:19 [WARNING] [/127.0.0.1:58233] <-> InitialHandler - read timed out
+15:14:40 [INFO] [/127.0.0.1:58308] <-> InitialHandler has pinged
+15:14:40 [INFO] [Dankom,/127.0.0.1:57930] <-> InitialHandler has connected
+15:14:43 [INFO] [Dankom] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:14:43 [INFO] [Dankom] -> UpstreamBridge has disconnected
+15:14:49 [INFO] [/127.0.0.1:57939] <-> InitialHandler has pinged
+15:15:04 [INFO] [/127.0.0.1:57300] <-> InitialHandler has pinged
+15:15:19 [INFO] [/127.0.0.1:57366] <-> InitialHandler has pinged
+15:15:19 [INFO] [/127.0.0.1:57368] <-> InitialHandler has connected
+15:15:21 [INFO] [Dankom] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:15:21 [INFO] [Dankom] -> UpstreamBridge has disconnected
+15:15:34 [INFO] [/127.0.0.1:57390] <-> InitialHandler has pinged
+15:15:35 [INFO] Closing listener [id: 0x38075ef4, L:/0:0:0:0:0:0:0:0:25577]
+15:15:35 [INFO] Closing pending connections
+15:15:35 [INFO] Disconnecting 0 connections
+15:15:35 [INFO] Saving reconnect locations
+15:15:35 [INFO] Disabling plugins
+15:15:35 [INFO] Closing IO threads
+15:17:09 [INFO] Using standard Java JCE cipher.
+15:17:09 [INFO] Using standard Java compressor.
+15:17:09 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:17:09 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:17:09 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:17:09 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:17:09 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:17:09 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:17:09 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:17:09 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [WARNING] Forced host server pvp is not defined
+15:17:09 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:09 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:17:10 [INFO] Listening on /0.0.0.0:25577
+15:17:19 [INFO] [/127.0.0.1:57523] <-> InitialHandler has pinged
+15:17:26 [INFO] [/127.0.0.1:57531] <-> InitialHandler has connected
+15:17:28 [INFO] [Dankom] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+15:17:28 [INFO] [Dankom] -> UpstreamBridge has disconnected
+15:17:34 [INFO] [/127.0.0.1:57542] <-> InitialHandler has pinged
+15:17:49 [INFO] [/127.0.0.1:57549] <-> InitialHandler has pinged
+15:18:01 [INFO] Closing listener [id: 0xc37f5af9, L:/0:0:0:0:0:0:0:0:25577]
+15:18:01 [INFO] Closing pending connections
+15:18:01 [INFO] Disconnecting 0 connections
+15:18:01 [INFO] Saving reconnect locations
+15:18:01 [INFO] Disabling plugins
+15:18:01 [INFO] Closing IO threads
+15:18:06 [INFO] Using standard Java JCE cipher.
+15:18:06 [INFO] Using standard Java compressor.
+15:18:06 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.16-R0.5-SNAPSHOT:3d701fb:1545
+15:18:06 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+15:18:06 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+15:18:06 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+15:18:06 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+15:18:06 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+15:18:06 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+15:18:06 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Loaded plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Loaded plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Loaded plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Loaded plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [WARNING] Forced host server pvp is not defined
+15:18:06 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Enabled plugin cmd_find version git:cmd_find:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Enabled plugin cmd_server version git:cmd_server:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Enabled plugin cmd_send version git:cmd_send:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:06 [INFO] Enabled plugin cmd_list version git:cmd_list:1.16-R0.5-SNAPSHOT:3d701fb:1545 by SpigotMC
+15:18:07 [INFO] Listening on /0.0.0.0:25577
+15:18:10 [INFO] [/127.0.0.1:57610] <-> InitialHandler has connected
+15:18:11 [INFO] [Dankom] <-> ServerConnector [lobby] has connected
+15:18:11 [INFO] Netty is not using direct IO buffers.
+15:18:19 [INFO] [/127.0.0.1:57615] <-> InitialHandler has pinged
+15:18:34 [INFO] [/127.0.0.1:57625] <-> InitialHandler has pinged
+15:18:49 [INFO] [/127.0.0.1:57634] <-> InitialHandler has pinged
+15:19:04 [INFO] [/127.0.0.1:57640] <-> InitialHandler has pinged
+15:19:19 [INFO] [/127.0.0.1:57641] <-> InitialHandler has pinged
+15:19:34 [INFO] [/127.0.0.1:57644] <-> InitialHandler has pinged
+15:19:49 [INFO] [/127.0.0.1:57646] <-> InitialHandler has pinged
+15:20:04 [INFO] [/127.0.0.1:57651] <-> InitialHandler has pinged
+15:20:19 [INFO] [/127.0.0.1:57664] <-> InitialHandler has pinged
+15:20:49 [INFO] [/127.0.0.1:57670] <-> InitialHandler has pinged
+15:21:04 [INFO] [/127.0.0.1:57678] <-> InitialHandler has pinged
+15:21:19 [INFO] [/127.0.0.1:57720] <-> InitialHandler has pinged
+15:21:34 [INFO] [/127.0.0.1:57727] <-> InitialHandler has pinged
+15:21:49 [INFO] [/127.0.0.1:57730] <-> InitialHandler has pinged
+15:22:04 [INFO] [/127.0.0.1:57744] <-> InitialHandler has pinged
+15:22:19 [INFO] [/127.0.0.1:57757] <-> InitialHandler has pinged
+15:22:34 [INFO] [/127.0.0.1:57766] <-> InitialHandler has pinged
+15:22:37 [INFO] Closing listener [id: 0xdc48c654, L:/0:0:0:0:0:0:0:0:25577]
+15:22:37 [INFO] Closing pending connections
+15:22:37 [INFO] Disconnecting 1 connections
+15:22:37 [INFO] [Dankom] disconnected with: §f[Proxy] Proxy restarting.
+15:22:37 [INFO] [Dankom] -> UpstreamBridge has disconnected
+15:22:37 [INFO] [Dankom] <-> DownstreamBridge <-> [lobby] has disconnected
+15:22:38 [INFO] Disabling plugins
+15:22:38 [INFO] Closing IO threads
